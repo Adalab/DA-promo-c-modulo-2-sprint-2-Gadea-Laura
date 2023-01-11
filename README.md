@@ -1,36 +1,36 @@
 # DA-promo-c-modulo-2-sprint-2-Gadea-Laura
 Pair Programming de Gadea Autric y Laura Onteniente
 
-LIMPIEZA
+## LIMPIEZA
 
-Limpieza I: Introducción 
+- Limpieza I: Introducción 
 
-Limpieza II: Strings 
+- Limpieza II: Strings 
 
-Limpieza III: Valores extremos/Outliers
+- Limpieza III: Valores extremos/Outliers
 
-Limpieza IV: Valores nulos
+- Limpieza IV: Valores nulos
 
-Limpieza V: Valores nulos Sklearn 
+- Limpieza V: Valores nulos Sklearn 
 
-EDA
+## EDA
 
-EDA I: Introducción 
+- EDA I: Introducción 
 
-EDA II: Nulos y valores extremos 
+- EDA II: Nulos y valores extremos 
 
-EDA III: Outliers 
+- EDA III: Outliers 
 
-ETL
+## ETL
 
-ETL I: Extracción- API's
+- ETL I: Extracción- API's
 
-ETL II : Transformación I - Limpieza
+- ETL II : Transformación I - Limpieza
 
-ETL III: Transformación II - Clases y Funciones de limpieza 
+- ETL III: Transformación II - Clases y Funciones de limpieza 
 
-ETL IV: Carga I - Creación BBDD e inserción de datos 
+- ETL IV: Carga I - Creación BBDD e inserción de datos 
 
-ETL V: Carga II - Clases y Funciones BBDD e inserción 
+- ETL V: Carga II - Clases y Funciones BBDD e inserción 
 
-ETL VI: Transformación II - Ejecutable - Pipeline ETL
+- ETL VI: Transformación II - Ejecutable - Pipeline ETL
