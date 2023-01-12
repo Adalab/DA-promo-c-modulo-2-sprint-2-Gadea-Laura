@@ -1,0 +1,384 @@
+,year,type,country,activity,age,species,month,fatal,sex
+0,2018,Boating,usa,Paddling,57.0,White Shark,Jun,N,F
+2,2018,Unprovoked,usa,Walking,15.0,Bull Shark,May,N,M
+3,2018,Provoked,australia,Feeding sharks,32.0,Grey Shark,May,N,M
+6,2018,Unprovoked,australia,Surfing,60.0,Unspecified,Apr,N,M
+8,2018,Unprovoked,south africa,Paddle-skiing,33.0,White Shark,Apr,N,M
+9,2018,Unprovoked,south africa,Surfing,19.0,White Shark,Apr,N,M
+10,2018,Unprovoked,usa,Stand-Up Paddleboarding,25.0,Tiger Shark,Mar,N,M
+11,2018,Unprovoked,australia,Wading,10.0,Unspecified,Mar,N,M
+12,2018,Unprovoked,australia,Swimming,25.0,Unspecified,Mar,N,M
+13,2018,Unprovoked,australia,Surfing,18.0,Unspecified,Mar,N,M
+14,2018,Unprovoked,australia,Swimming,55.0,White Shark,Feb,N,F
+15,2018,Unprovoked,australia,Walking,35.0,Bull Shark,Feb,N,M
+17,2017,Unprovoked,usa,Surfing,54.0,Tiger Shark,Dec,N,F
+18,2017,Unprovoked,usa,Spearfishing,25.0,White Shark,Nov,N,M
+19,2017,Unprovoked,australia,Surfing,25.0,Unspecified,Nov,N,M
+21,2017,Unprovoked,australia,Surfing,31.0,Unspecified,Oct,N,M
+22,2017,Unprovoked,australia,Kayaking / Fishing,15.0,White Shark,Oct,N,F
+23,2017,Unprovoked,usa,Surfing,54.0,Tiger Shark,Oct,N,M
+24,2017,Unprovoked,usa,Snorkeling,40.0,Unspecified,Oct,N,F
+25,2017,Invalid,usa,Surfing,33.0,Unspecified,Sep,Unknown,M
+26,2017,Unprovoked,usa,Surfing,18.0,Unspecified,Sep,N,M
+27,2017,Unprovoked,australia,Surfing,35.0,White Shark,Sep,N,M
+28,2017,Unprovoked,australia,Surfing,37.0,White Shark,Aug,N,M
+30,2017,Unprovoked,usa,SUP,25.0,White Shark,Aug,N,M
+31,2017,Unprovoked,usa,Swimming,13.0,Unspecified,Aug,N,M
+32,2017,Provoked,usa,Fishing,34.0,Unspecified,Aug,N,M
+33,2017,Invalid,usa,Swimming,10.0,Unspecified,Jul,Unknown,M
+34,2017,Boating,usa,Kayaking,40.0,White Shark,Jul,N,M
+35,2017,Unprovoked,usa,SUP,50.0,White Shark,Jul,N,M
+36,2017,Unprovoked,usa,Swimming,46.0,Bull Shark,Jul,N,M
+37,2017,Unprovoked,south africa,Surfing,13.0,White Shark,Jul,N,F
+38,2017,Unprovoked,australia,Body boarding,48.0,White Shark,Jun,N,M
+40,2017,Invalid,usa,Surfing,18.0,Unspecified,May,Unknown,F
+41,2017,Unprovoked,australia,Surfing,17.0,White Shark,Apr,Y,F
+42,2017,Unprovoked,usa,Surfing,28.0,Tiger Shark,Apr,N,M
+43,2017,Unprovoked,usa,Swimming,17.0,Bull Shark,Apr,N,F
+44,2017,Unprovoked,australia,Scuba Diving,55.0,Bull Shark,Jan,N,M
+46,2017,Invalid,australia,Wading,20.0,Unspecified,Jan,Unknown,M
+47,2016,Unprovoked,south africa,Surf skiing ,55.0,White Shark,Dec,N,M
+48,2016,Invalid,usa,Surfing,19.0,Unspecified,Dec,Unknown,M
+49,2016,Provoked,australia,Surf fishing,20.0,Unspecified,Dec,N,M
+50,2016,Unprovoked,australia,Surfing,65.0,White Shark,Dec,N,M
+51,2016,Provoked,australia,Fishing,25.0,Unspecified,Nov,N,M
+52,2016,Unprovoked,usa,Floating,58.0,Tiger Shark,Nov,N,F
+53,2016,Unprovoked,usa,Surfing,36.0,Unspecified,Oct,N,M
+54,2016,Unprovoked,australia,Surfing,17.0,White Shark,Sep,N,M
+55,2016,Unprovoked,usa,Wading,60.0,Unspecified,Sep,N,M
+56,2016,Unprovoked,usa,Swimming,51.0,Tiger Shark,Sep,N,F
+57,2016,Unprovoked,usa,Surfing,25.0,Bull Shark,Aug,N,M
+58,2016,Unprovoked,usa,SUP Foil boarding,21.0,Tiger Shark,Aug,N,M
+60,2016,Provoked,australia,Fishing,31.0,Unspecified,Jul,N,M
+61,2016,Unprovoked,usa,Kite surfing,61.0,White Shark,Jul,N,M
+62,2016,Provoked,usa,Fishing,59.0,Unspecified,Jul,N,M
+63,2016,Provoked,australia,Fishing,34.0,Unspecified,Jul,N,M
+64,2016,Unprovoked,usa,Floating,42.0,Unspecified,Jun,N,M
+65,2016,Unprovoked,usa,Floating in tube,6.0,Unspecified,Jun,N,F
+66,2016,Unprovoked,usa,Standing,19.0,Unspecified,Jun,N,M
+67,2016,Invalid,usa,Surfing,27.0,Unspecified,Jun,Unknown,M
+68,2016,Unprovoked,australia,Diving,60.0,Unspecified,Jun,Y,F
+70,2016,Unprovoked,australia,Surfing,29.0,White Shark,May,Y,M
+71,2016,Unprovoked,usa,Swimming,13.0,Unspecified,May,N,M
+72,2016,Unprovoked,usa,Swimming,22.0,Bull Shark,May,N,F
+73,2016,Unprovoked,usa,Swimming,48.0,Unspecified,May,N,M
+74,2016,Provoked,usa,Teasing a shark,23.0,Unspecified,May,N,F
+75,2016,Provoked,new zealand,Fishing,39.0,Unspecified,May,N,M
+77,2016,Unprovoked,australia,Swimming,12.0,Unspecified,Apr,N,M
+81,2016,Unprovoked,usa,Paddle boarding,48.0,Tiger Shark,Jan,N,M
+82,2016,Unprovoked,australia,Wading,11.0,Unspecified,Jan,N,M
+83,2016,Unprovoked,australia,Spearfishing,31.0,Unspecified,Jan,N,M
+84,2015,Unprovoked,usa,Paddle boarding,25.0,Unspecified,Dec,N,M
+85,2015,Unprovoked,australia,Surfing,43.0,Unspecified,Dec,N,M
+87,2015,Unprovoked,australia,Surfing,20.0,Bull Shark,Nov,N,M
+88,2015,Invalid,usa,Surfing,9.0,Unspecified,Nov,Unknown,F
+89,2015,Unprovoked,usa,Wading,28.0,Unspecified,Nov,N,F
+90,2015,Unprovoked,south africa,Surfing,42.0,White Shark,Oct,N,M
+91,2015,Unprovoked,usa,Surfing,21.0,Unspecified,Oct,N,M
+92,2015,Unprovoked,usa,Surfing,21.0,Unspecified,Oct,N,M
+93,2015,Invalid,usa,Surfing,32.0,Unspecified,Oct,Unknown,M
+94,2015,Unprovoked,usa,Swimming,44.0,Tiger Shark,Oct,N,M
+95,2015,Unprovoked,usa,Surfing,25.0,Tiger Shark,Oct,N,M
+96,2015,Unprovoked,usa,Wading,13.0,Unspecified,Oct,N,M
+97,2015,Unprovoked,usa,Surfing,14.0,Unspecified,Oct,N,M
+98,2015,Unprovoked,usa,Surfing,22.0,Unspecified,Sep,N,M
+99,2015,Unprovoked,usa,Surfing,14.0,Unspecified,Sep,N,M
+100,2015,Unprovoked,usa,Spearfishing,27.0,Tiger Shark,Sep,N,M
+101,2015,Unprovoked,usa,Wading,12.0,Unspecified,Sep,N,M
+102,2015,Unprovoked,australia,Surfing,42.0,Unspecified,Sep,N,M
+103,2015,Unprovoked,usa,Stand-Up Paddleboarding,50.0,White Shark,Sep,N,F
+104,2015,Provoked,usa,Kayak Fishing,29.0,Unspecified,Sep,N,M
+105,2015,Unprovoked,australia,Surf-skiing,62.0,White Shark,Sep,N,M
+107,2015,Unprovoked,usa,Surfing,54.0,White Shark,Aug,N,F
+108,2015,Unprovoked,usa,Surfing,21.0,White Shark,Aug,N,M
+109,2015,Unprovoked,usa,Surfing,15.0,Unspecified,Aug,N,M
+110,2015,Unprovoked,usa,Walking,10.0,Unspecified,Aug,N,F
+111,2015,Boating,usa,Kayak Fishing,22.0,White Shark,Aug,N,M
+113,2015,Provoked,usa,Spearfishing,57.0,Unspecified,Aug,N,M
+114,2015,Unprovoked,australia,Surfing,52.0,White Shark,Jul,N,M
+115,2015,Unprovoked,usa,Surfing,25.0,Unspecified,Jul,N,M
+116,2015,Invalid,usa,Floating,35.0,Unspecified,Jul,Unknown,F
+117,2015,Unprovoked,australia,Scallop diving on hookah,46.0,White Shark,Jul,Y,M
+118,2015,Unprovoked,usa,Surfing,38.0,White Shark,Jul,N,M
+119,2015,Unprovoked,australia,Surfing,52.0,White Shark,Jul,N,M
+120,2015,Unprovoked,australia,Body boarding ,32.0,White Shark,Jul,N,M
+121,2015,Unprovoked,usa,Swimming,25.0,Unspecified,Jul,N,M
+122,2015,Unprovoked,usa,Playing in the water,12.0,Unspecified,Jun,N,M
+123,2015,Unprovoked,usa,Swimming,18.0,Bull Shark,Jun,N,M
+124,2015,Unprovoked,south africa,Body Boarding,19.0,White Shark,Jun,N,M
+125,2015,Unprovoked,south africa,Surfing,23.0,White Shark,Jun,N,M
+126,2015,Unprovoked,usa,Standing,43.0,Unspecified,Jun,N,M
+127,2015,Unprovoked,usa,Swimming,6.0,Tiger Shark,Jun,N,M
+128,2015,Invalid,australia,Surfing,37.0,White Shark,Jun,N,F
+129,2015,Unprovoked,usa,Wading,16.0,Bull Shark,Jun,N,M
+130,2015,Unprovoked,usa,Wading,12.0,Bull Shark,Jun,N,F
+131,2015,Unprovoked,usa,Boogie boarding,13.0,Unspecified,Jun,N,F
+132,2015,Unprovoked,usa,Playing,11.0,Bull Shark,Jun,N,M
+135,2015,Unprovoked,usa,Surfing,18.0,Unspecified,Unknown,N,M
+136,2015,Unprovoked,south africa,Diving,29.0,White Shark,May,N,M
+137,2015,Unprovoked,usa,Wading,63.0,Unspecified,Apr,N,M
+138,2015,Unprovoked,australia,Surfing,26.0,White Shark,Apr,N,M
+139,2015,Unprovoked,australia,Surf skiing ,25.0,White Shark,Jun,N,M
+141,2015,Unprovoked,usa,Spearfishing,25.0,Bull Shark,Apr,N,M
+143,2015,Unprovoked,usa,Standing / Snorkeling,58.0,Tiger Shark,Mar,N,M
+146,2015,Unprovoked,australia,Surfing,41.0,Unspecified,Feb,Y,M
+147,2015,Unprovoked,australia,Surfing,35.0,Unspecified,Feb,N,M
+148,2015,Boating,australia,Rowing,57.0,Bull Shark,Jan,N,M
+149,2015,Provoked,usa,Shark fishing,20.0,Unspecified,Jan,N,M
+151,2015,Unprovoked,south africa,Surfing,15.0,Unspecified,Jan,N,M
+152,2014,Unprovoked,australia,Spearfishing,17.0,White Shark,Dec,Y,M
+153,2014,Unprovoked,usa,Surfing,50.0,White Shark,Dec,N,M
+154,2014,Provoked,australia,Fishing,40.0,Unspecified,Dec,N,M
+155,2014,Unprovoked,australia,Spearfishing,17.0,Tiger Shark,Dec,Y,M
+156,2014,Unprovoked,usa,Surfing,44.0,Unspecified,Nov,N,M
+157,2014,Unprovoked,usa,Snorkeling,53.0,Unspecified,Nov,N,M
+158,2014,Unprovoked,usa,Surfing,34.0,Tiger Shark,Oct,N,F
+159,2014,Unprovoked,australia,Surfing,13.0,Unspecified,Oct,N,F
+160,2014,Unprovoked,usa,Surfing,29.0,Unspecified,Oct,N,M
+161,2014,Unprovoked,usa,Surfing,15.0,Unspecified,Oct,N,M
+162,2014,Unprovoked,usa,Surfing,28.0,Unspecified,Oct,N,M
+163,2014,Unprovoked,australia,Surfing,23.0,White Shark,Oct,N,M
+164,2014,Unprovoked,australia,Swimming,50.0,Unspecified,Sep,Y,M
+165,2014,Unprovoked,usa,Fishing ,43.0,Bull Shark,Sep,N,M
+166,2014,Boating,usa,Kayaking ,20.0,White Shark,Sep,N,F
+167,2014,Provoked,usa,Fishing,52.0,Unspecified,Sep,N,M
+168,2014,Unprovoked,usa,Body surfing,13.0,Unspecified,Aug,N,F
+169,2014,Unprovoked,usa,Swimming,7.0,Bull Shark,Aug,N,M
+170,2014,Unprovoked,usa,Boogie boarding,10.0,Unspecified,Aug,N,M
+171,2014,Unprovoked,south africa,Surfing,20.0,White Shark,Aug,N,M
+172,2014,Unprovoked,usa,Swimming,61.0,Unspecified,Jul,N,M
+173,2014,Unprovoked,usa,Swimming,39.0,Unspecified,Jul,N,M
+175,2014,Unprovoked,usa,Body surfing,19.0,Unspecified,Jul,N,M
+176,2014,Unprovoked,usa,Standing,16.0,Unspecified,Jun,N,M
+177,2014,Unprovoked,australia,Body boarding,39.0,Unspecified,Jun,N,M
+178,2014,Unprovoked,usa,Swimming,22.0,Bull Shark,Jun,N,F
+179,2014,Unprovoked,australia,Surfing,35.0,White Shark,May,N,M
+180,2014,Unprovoked,usa,Swimming,40.0,Unspecified,May,N,F
+181,2014,Unprovoked,usa,Surfing,23.0,Unspecified,May,N,M
+182,2014,Unprovoked,australia,Swimming,63.0,White Shark,Apr,Y,F
+183,2014,Invalid,australia,Diving for lobsters,38.0,Unspecified,Mar,Unknown,M
+184,2014,Unprovoked,south africa,Swimming,25.0,Unspecified,Mar,Y,M
+186,2014,Unprovoked,new zealand,Surfing,28.0,Unspecified,Feb,N,M
+188,2013,Unprovoked,south africa,Surfing,19.0,White Shark,Dec,N,M
+189,2013,Unprovoked,usa,Boogie boarding,29.0,Tiger Shark,Dec,N,M
+190,2013,Unprovoked,usa,Surfing,30.0,Unspecified,Dec,N,M
+191,2013,Unprovoked,australia,Surfing,26.0,Unspecified,Dec,N,M
+192,2013,Unprovoked,australia,Body boarding,19.0,Tiger Shark,Nov,Y,M
+193,2013,Unprovoked,australia,Surfing,35.0,White Shark,Nov,Y,M
+194,2013,Unprovoked,usa,Surfing,25.0,White Shark,Nov,N,M
+195,2013,Unprovoked,usa,Kiteboarding,46.0,Tiger Shark,Oct,N,M
+196,2013,Unprovoked,australia,Snorkeling,60.0,Unspecified,Oct,N,F
+198,2013,Unprovoked,australia,Surfing,41.0,Unspecified,Oct,N,M
+199,2013,Unprovoked,usa,Diving ,45.0,White Shark,Oct,N,M
+200,2013,Unprovoked,usa,Surfing,25.0,Tiger Shark,Oct,N,M
+201,2013,Unprovoked,usa,Wading,6.0,Unspecified,Oct,N,M
+202,2013,Unprovoked,south africa,Swimming / snorkeling,25.0,White Shark,Oct,Y,M
+203,2013,Unprovoked,australia,Diving for Abalone,55.0,White Shark,Oct,N,M
+204,2013,Unprovoked,usa,Surfing,45.0,White Shark,Oct,N,M
+205,2013,Unprovoked,usa,Swimming,21.0,Bull Shark,Sep,N,M
+206,2013,Unprovoked,usa,Surfing,13.0,Unspecified,Sep,N,F
+207,2013,Provoked,usa,Surfing,43.0,Unspecified,Sep,N,M
+208,2013,Unprovoked,usa,Standing,25.0,Unspecified,Sep,N,M
+209,2013,Unprovoked,usa,Casting a net,9.0,Unspecified,Sep,N,M
+210,2013,Unprovoked,usa,Snorkeling,20.0,Tiger Shark,Aug,Y,F
+211,2013,Unprovoked,usa,Surfing,10.0,Bull Shark,Aug,N,M
+212,2013,Unprovoked,usa,Fishing,17.0,Bull Shark,Aug,N,M
+214,2013,Unprovoked,usa,Surfing,18.0,Tiger Shark,Jul,N,M
+216,2013,Unprovoked,usa,Swimming,14.0,Unspecified,Jun,N,M
+217,2013,Unprovoked,usa,Swimming,28.0,Tiger Shark,Jun,N,M
+218,2013,Unprovoked,usa,Boogie Boarding,10.0,Unspecified,Jun,N,F
+221,2013,Unprovoked,usa,Surfing,16.0,Unspecified,May,N,M
+223,2013,Unprovoked,australia,Fishing,51.0,Grey Shark,Apr,N,M
+224,2013,Unprovoked,usa,Playing in the surf,9.0,Unspecified,Apr,N,M
+225,2013,Unprovoked,usa,Surfing,21.0,Bull Shark,Apr,N,M
+227,2013,Unprovoked,usa,Surfing,58.0,Unspecified,Apr,N,M
+228,2013,Provoked,south africa,Fishing - 'tag & release',30.0,Unspecified,Mar,N,M
+230,2013,Unprovoked,australia,Spearfishing,28.0,Unspecified,Mar,N,M
+231,2013,Unprovoked,new zealand,Swimming,46.0,White Shark,Feb,Y,M
+232,2013,Unprovoked,usa,Surfing,16.0,Unspecified,Feb,N,M
+234,2013,Unprovoked,usa,Surfing,43.0,Tiger Shark,Jan,N,M
+235,2012,Unprovoked,australia,Surfing,23.0,Unspecified,Dec,N,M
+236,2012,Unprovoked,australia,Paddle boarding,29.0,Bull Shark,Dec,N,M
+237,2012,Unprovoked,australia,Surfing,32.0,Tiger Shark,Dec,N,M
+238,2012,Unprovoked,usa,Surfing,60.0,Unspecified,Dec,N,M
+239,2012,Unprovoked,australia,Spearfishing,31.0,Tiger Shark,Dec,N,M
+240,2012,Unprovoked,usa,Snorkeling,61.0,Tiger Shark,Nov,N,M
+242,2012,Unprovoked,usa,Surfing,14.0,Unspecified,Nov,N,M
+243,2012,Unprovoked,usa,Diving,30.0,Tiger Shark,Nov,N,M
+244,2012,Unprovoked,usa,Surfing,43.0,Tiger Shark,Nov,N,M
+245,2012,Unprovoked,usa,Surfing,25.0,White Shark,Oct,N,M
+246,2012,Unprovoked,usa,Swimming,51.0,Tiger Shark,Oct,N,F
+247,2012,Unprovoked,usa,Surfing,39.0,White Shark,Oct,Y,M
+248,2012,Unprovoked,usa,Paddle boarding,55.0,Unspecified,Oct,N,M
+249,2012,Unprovoked,australia,Bodyboarding,11.0,Unspecified,Oct,N,M
+250,2012,Unprovoked,usa,Surfing,21.0,Unspecified,Sep,N,M
+251,2012,Unprovoked,usa,Surfing,22.0,Unspecified,Sep,N,M
+252,2012,Unprovoked,usa,Boogie boarding,8.0,Unspecified,Sep,N,F
+253,2012,Unprovoked,usa,Swimming or boogie boarding,56.0,Unspecified,Sep,N,F
+254,2012,Unprovoked,usa,Free diving ,56.0,Lemon Shark,Aug,N,M
+255,2012,Unprovoked,australia,Surfing,48.0,White Shark,Jul,N,M
+256,2012,Unprovoked,usa,Body surfing,50.0,White Shark,Jul,N,M
+257,2012,Unprovoked,australia,Surfing,24.0,White Shark,Jul,Y,M
+258,2012,Boating,usa,Kayaking,52.0,Unspecified,Jul,N,M
+259,2012,Unprovoked,south africa,Surfing,29.0,Unspecified,Jul,N,M
+260,2012,Unprovoked,usa,Swimming,6.0,Bull Shark,Jun,N,M
+261,2012,Unprovoked,usa,Sitting in the water,16.0,Unspecified,Jun,N,F
+262,2012,Unprovoked,australia,Surf skiing ,62.0,Unspecified,Jun,N,M
+263,2012,Provoked,usa,Fishing,23.0,Unspecified,Jun,N,M
+264,2012,Unprovoked,usa,Swimming,18.0,Unspecified,Jun,N,F
+265,2012,Unprovoked,usa,Swimming,16.0,Unspecified,Jun,N,M
+266,2012,Unprovoked,australia,Surfing,42.0,Unspecified,Jun,N,M
+268,2012,Unprovoked,australia,Surf skiing ,30.0,White Shark,Jun,N,M
+269,2012,Unprovoked,usa,Wading,33.0,Unspecified,May,N,F
+271,2012,Unprovoked,usa,Surfing,22.0,Unspecified,May,N,M
+272,2012,Boating,usa,Kayaking / Fishing,30.0,White Shark,May,N,M
+273,2012,Unprovoked,usa,Paddle boarding,15.0,White Shark,May,N,F
+274,2012,Unprovoked,usa,Surfing,28.0,Unspecified,Apr,N,M
+275,2012,Unprovoked,south africa,Body boarding,20.0,White Shark,Apr,Y,M
+276,2012,Unprovoked,usa,Surfing,28.0,Tiger Shark,Apr,N,M
+277,2012,Unprovoked,australia,Scuba diving,33.0,White Shark,Mar,Y,M
+278,2012,Unprovoked,australia,Surfing,20.0,Bull Shark,Mar,N,M
+279,2012,Unprovoked,usa,Surfing,61.0,Bull Shark,Mar,N,M
+280,2012,Unprovoked,usa,Surfing,15.0,Unspecified,Mar,N,F
+281,2012,Unprovoked,usa,Surfing,17.0,Unspecified,Mar,N,M
+282,2012,Provoked,australia,"Diving, feeding sharks",34.0,Unspecified,Mar,N,F
+283,2012,Unprovoked,usa,Kite Surfing,19.0,Unspecified,Mar,N,M
+284,2012,Unprovoked,australia,Snorkeling,26.0,Tiger Shark,Jan,N,M
+285,2012,Unprovoked,australia,Surfing,44.0,White Shark,Jan,N,M
+286,2012,Unprovoked,south africa,Swimming,25.0,Bull Shark,Jan,Y,M
+287,2012,Unprovoked,australia,Surfing,28.0,Unspecified,Jan,N,M
+288,2012,Unprovoked,australia,Spearfishing,34.0,Tiger Shark,Jan,N,M
+289,2011,Unprovoked,australia,Surfing,51.0,White Shark,Dec,N,M
+290,2011,Unprovoked,australia,Swimming,10.0,Unspecified,Nov,N,M
+291,2011,Unprovoked,australia,Diving,32.0,White Shark,Oct,Y,M
+292,2011,Unprovoked,australia,Diving,50.0,Unspecified,Oct,N,M
+293,2011,Invalid,usa,Surfing,27.0,Unspecified,Sep,Unknown,M
+294,2011,Unprovoked,south africa,Swimming,43.0,White Shark,Sep,N,M
+295,2011,Unprovoked,usa,Spearfishing,21.0,Bull Shark,Sep,N,M
+296,2011,Unprovoked,usa,Surfing,25.0,Unspecified,Sep,N,M
+297,2011,Unprovoked,papua new guinea,Kite Surfing,30.0,Tiger Shark,Sep,N,M
+298,2011,Unprovoked,australia,Body boarding,21.0,White Shark,Sep,Y,M
+299,2011,Unprovoked,usa,Surfing,19.0,Unspecified,Sep,N,M
+300,2011,Unprovoked,usa,Surfing,19.0,Unspecified,Aug,N,M
+301,2011,Invalid,australia,Swimming,48.0,Unspecified,Aug,Unknown,M
+302,2011,Unprovoked,south africa,Surfing,49.0,White Shark,Aug,Y,M
+303,2011,Unprovoked,usa,Wading,20.0,Tiger Shark,Aug,N,F
+307,2011,Unprovoked,south africa,Surfing,29.0,White Shark,Jul,N,M
+308,2011,Unprovoked,south africa,Scuba diving,22.0,Bull Shark,Jun,N,M
+309,2011,Unprovoked,usa,Playing in the surf,10.0,Bull Shark,Jun,N,F
+310,2011,Unprovoked,usa,Scuba diving,28.0,Unspecified,Jun,N,M
+311,2011,Unprovoked,usa,Wading,19.0,Unspecified,Jun,N,M
+312,2011,Unprovoked,south africa,Spearfishing,28.0,Unspecified,May,Y,M
+314,2011,Unprovoked,australia,Washing sand off a speared fish,17.0,Unspecified,Apr,N,M
+315,2011,Unprovoked,usa,Surfing ,49.0,Unspecified,Apr,N,M
+316,2011,Unprovoked,new zealand,Surfing,41.0,Unspecified,Apr,N,M
+317,2011,Unprovoked,australia,Surfing,48.0,Bull Shark,Mar,N,M
+318,2011,Unprovoked,australia,Wakeboarding,24.0,Unspecified,Mar,N,F
+319,2011,Provoked,australia,Fishing,36.0,Bull Shark,Feb,N,M
+321,2011,Unprovoked,australia,Diving for abalone,49.0,White Shark,Feb,Y,M
+324,2011,Invalid,australia,Swimming,7.0,Unspecified,Jan,Unknown,F
+325,2010,Unprovoked,usa,Body boarding,16.0,Unspecified,Dec,N,M
+331,2010,Unprovoked,australia,Snorkeling,20.0,White Shark,Oct,N,F
+332,2010,Unprovoked,usa,Scuba diving,30.0,Unspecified,Oct,N,M
+333,2010,Unprovoked,usa,Body boarding,19.0,White Shark,Oct,Y,M
+334,2010,Unprovoked,australia,Surfing,22.0,Bull Shark,Oct,N,M
+335,2010,Unprovoked,usa,Surfing,29.0,White Shark,Sep,N,M
+336,2010,Unprovoked,australia,Surfing,15.0,Unspecified,Sep,N,M
+337,2010,Unprovoked,australia,Surfing,31.0,White Shark,Aug,Y,M
+338,2010,Unprovoked,usa,Standing,37.0,Unspecified,Aug,N,F
+339,2010,Unprovoked,usa,Swimming,10.0,Unspecified,Jul,N,M
+340,2010,Unprovoked,usa,Swimming,13.0,Tiger Shark,Jul,N,F
+342,2010,Provoked,usa,Fishing,20.0,Unspecified,Jul,N,M
+343,2010,Unprovoked,usa,Surfing,19.0,Unspecified,Jul,N,M
+344,2010,Unprovoked,usa,Stand-Up Paddleboarding,48.0,Unspecified,Jul,N,M
+346,2010,Unprovoked,usa,Boogie Boarding,18.0,Unspecified,Jun,N,F
+347,2010,Provoked,usa,Fishing,49.0,Lemon Shark,May,N,M
+350,2010,Unprovoked,usa,Wading,10.0,Unspecified,May,N,F
+351,2010,Provoked,usa,Measuring sharks,29.0,Lemon Shark,Apr,N,M
+352,2010,Unprovoked,usa,Surfing,25.0,Unspecified,Apr,N,M
+353,2010,Unprovoked,south africa,Surfing,35.0,Unspecified,Apr,N,M
+356,2010,Unprovoked,australia,Snorkeling,60.0,Unspecified,Feb,N,F
+357,2010,Unprovoked,australia,Surfing,46.0,Unspecified,Feb,N,M
+358,2010,Unprovoked,australia,Body boarding,18.0,White Shark,Feb,N,M
+360,2010,Provoked,new zealand,Boogie Boarding,14.0,Unspecified,Feb,N,F
+361,2010,Unprovoked,south africa,Standing,37.0,White Shark,Jan,Y,M
+363,2009,Unprovoked,australia,Spearfishing,18.0,Bull Shark,Dec,N,M
+364,2009,Provoked,usa,Diving,58.0,Tiger Shark,Dec,N,M
+365,2009,Invalid,usa,Surfing,49.0,Unspecified,Nov,Unknown,M
+366,2009,Unprovoked,usa,Wading,10.0,Unspecified,Nov,N,M
+367,2009,Unprovoked,usa,Fishing,31.0,Unspecified,Nov,N,M
+368,2009,Unprovoked,usa,Surfing,18.0,Unspecified,Nov,N,M
+369,2009,Unprovoked,australia,Kayaking,25.0,Unspecified,Nov,N,M
+370,2009,Boating,australia,Kayaking,27.0,White Shark,Oct,N,M
+371,2009,Unprovoked,usa,Surfing,54.0,Unspecified,Oct,N,M
+374,2009,Invalid,usa,Swimming,60.0,Unspecified,Sep,Y,M
+375,2009,Unprovoked,south africa,Surfing,25.0,White Shark,Aug,Y,M
+376,2009,Unprovoked,usa,Swimming,22.0,White Shark,Aug,N,F
+377,2009,Unprovoked,usa,Wade Fishing,56.0,Bull Shark,Aug,N,M
+378,2009,Provoked,usa,Swimming,43.0,Unspecified,Jul,N,F
+379,2009,Unprovoked,australia,Surfing,52.0,Unspecified,Jun,N,M
+380,2009,Invalid,usa,Crawling,14.0,Unspecified,Jun,Unknown,M
+383,2009,Unprovoked,usa,Surfing,31.0,Unspecified,May,N,M
+384,2009,Unprovoked,usa,Surfing,49.0,Unspecified,May,N,M
+385,2009,Unprovoked,usa,Surfing,55.0,Unspecified,May,N,M
+387,2009,Unprovoked,usa,Surfing,31.0,Unspecified,Apr,N,M
+388,2009,Unprovoked,australia,Surf skiing ,40.0,Unspecified,Apr,N,M
+389,2009,Invalid,south africa,Swimming,24.0,Unspecified,Apr,Unknown,M
+390,2009,Unprovoked,australia,Surfing,17.0,Unspecified,Mar,N,M
+391,2009,Unprovoked,usa,Surfing,17.0,Unspecified,Mar,N,F
+392,2009,Unprovoked,usa,Swimming,61.0,Unspecified,Mar,N,M
+393,2009,Provoked,south africa,Fishing,40.0,Unspecified,Mar,N,M
+394,2009,Unprovoked,australia,Surfing,15.0,Unspecified,Mar,N,M
+395,2009,Unprovoked,australia,Surfing,33.0,White Shark,Feb,N,M
+396,2009,Unprovoked,australia,"Diving, but on the surface when bitten by the shark",31.0,Bull Shark,Feb,N,M
+397,2009,Unprovoked,australia,Surfing,41.0,White Shark,Feb,N,M
+399,2009,Unprovoked,south africa,Swimming,25.0,Tiger Shark,Jan,Y,M
+400,2009,Unprovoked,australia,Snorkeling,24.0,Unspecified,Jan,N,M
+401,2009,Unprovoked,australia,Surfing,13.0,White Shark,Jan,N,F
+402,2009,Unprovoked,australia,Surfing,31.0,White Shark,Jan,N,M
+403,2009,Unprovoked,new zealand,Swimming,49.0,Unspecified,Jan,N,M
+404,2008,Boating,australia,Kayaking,29.0,White Shark,Dec,N,M
+405,2008,Unprovoked,australia,Snorkeling,51.0,White Shark,Dec,Y,M
+406,2008,Provoked,south africa,Fishing,15.0,Unspecified,Dec,N,M
+407,2008,Provoked,australia,Scuba diving,34.0,Grey Shark,Oct,N,M
+409,2008,Unprovoked,usa,Surfing,40.0,Unspecified,Sep,N,M
+410,2008,Provoked,australia,Swimming,43.0,Unspecified,Sep,N,M
+411,2008,Unprovoked,usa,Surfing,40.0,Tiger Shark,Sep,N,M
+412,2008,Unprovoked,australia,Surfing,51.0,Unspecified,Sep,N,M
+413,2008,Unprovoked,usa,Surfing,52.0,Unspecified,Sep,N,M
+414,2008,Invalid,usa,Swimming,27.0,Unspecified,Aug,Unknown,M
+415,2008,Unprovoked,usa,Surfing,26.0,Unspecified,Aug,N,M
+416,2008,Invalid,usa,Surfing,20.0,Unspecified,Aug,Unknown,F
+417,2008,Unprovoked,usa,Treading water,38.0,Bull Shark,Aug,N,F
+418,2008,Unprovoked,australia,Surfing,31.0,White Shark,Jul,N,M
+419,2008,Unprovoked,usa,Wading,8.0,Unspecified,Jul,N,F
+420,2008,Unprovoked,usa,Wading,16.0,Unspecified,Jul,N,M
+421,2008,Invalid,usa,Wading,53.0,Unspecified,Jun,Unknown,M
+422,2008,Unprovoked,south africa,Surf skiing ,46.0,White Shark,Jun,N,M
+423,2008,Unprovoked,usa,Swimming,37.0,Unspecified,Jun,N,M
+424,2008,Boating,usa,Kayaking,40.0,White Shark,Jun,N,F
+425,2008,Unprovoked,usa,Body surfing,15.0,Unspecified,Jun,N,F
+428,2008,Unprovoked,australia,Swimming,37.0,White Shark,May,N,M
+431,2008,Unprovoked,usa,Surfing,18.0,Unspecified,Apr,N,M
+433,2008,Unprovoked,usa,Swimming,25.0,White Shark,Apr,Y,M
+435,2008,Invalid,australia,Surfing,19.0,Unspecified,Apr,Unknown,M
+436,2008,Unprovoked,usa,Surfing,30.0,Unspecified,Apr,N,M
+437,2008,Unprovoked,australia,Body boarding,16.0,Bull Shark,Apr,Y,M
+438,2008,Unprovoked,usa,Surfing,52.0,Unspecified,Mar,N,M
+439,2008,Unprovoked,usa,Walking out of the water after surfing,13.0,Unspecified,Mar,N,M
+440,2008,Unprovoked,usa,Jet skiing,8.0,Unspecified,Mar,N,M
+441,2008,Unprovoked,usa,Surfing,27.0,White Shark,Mar,N,M
+443,2008,Provoked,australia,Accidentally stood on hooked shark's tail before attempting to gut it ,20.0,Unspecified,Jan,N,M
+444,2007,Unprovoked,australia,Surfing,31.0,Unspecified,Dec,N,M
+445,2007,Invalid,australia,Swimming,34.0,Unspecified,Dec,Unknown,M
+446,2007,Unprovoked,usa,Surfing,52.0,Tiger Shark,Dec,N,M
+447,2007,Unprovoked,south africa,Surfing,14.0,Unspecified,Nov,N,M
+448,2007,Unprovoked,usa,Surfing,21.0,Unspecified,Nov,N,M
+449,2007,Unprovoked,usa,Surfing,42.0,Unspecified,Nov,N,M
+450,2007,Unprovoked,south africa,Surfing,37.0,White Shark,Nov,N,M
+451,2007,Unprovoked,usa,Floating,32.0,Tiger Shark,Oct,N,M
+452,2007,Unprovoked,australia,Surf-skiing,52.0,White Shark,Oct,N,F
+453,2007,Unprovoked,australia,Spearfishing,31.0,Unspecified,Oct,N,M
+454,2007,Unprovoked,usa,Surfing,22.0,Unspecified,Oct,N,M
+455,2007,Unprovoked,usa,Surfing,16.0,Unspecified,Oct,N,M
+459,2007,Unprovoked,usa,Surfing,23.0,Unspecified,Sep,N,M
